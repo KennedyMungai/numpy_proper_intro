@@ -14,7 +14,8 @@
 			"itemsize",
 			"ndim",
 			"Numpy",
-			"randn"
+			"randn",
+			"tofile"
 		]
 	}
 }
