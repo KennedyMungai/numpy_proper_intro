@@ -22,6 +22,7 @@
 			"Numpy",
 			"pyplot",
 			"randn",
+			"sklearn",
 			"tofile",
 			"xlabel",
 			"ylabel"
