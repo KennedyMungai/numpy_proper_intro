@@ -8,6 +8,7 @@
 		"cSpell.words": [
 			"amax",
 			"arange",
+			"asarray",
 			"astype",
 			"dtype",
 			"itemsize",
