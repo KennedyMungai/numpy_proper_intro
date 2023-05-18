@@ -12,6 +12,7 @@
 			"astype",
 			"dtype",
 			"genfromtxt",
+			"imshow",
 			"itemsize",
 			"linspace",
 			"Matplot",
