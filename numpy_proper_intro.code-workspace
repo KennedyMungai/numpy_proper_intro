@@ -20,7 +20,9 @@
 			"Numpy",
 			"pyplot",
 			"randn",
-			"tofile"
+			"tofile",
+			"xlabel",
+			"ylabel"
 		]
 	}
 }
