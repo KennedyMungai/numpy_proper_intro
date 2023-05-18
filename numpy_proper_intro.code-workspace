@@ -8,7 +8,8 @@
 		"cSpell.words": [
 			"dtype",
 			"itemsize",
-			"Numpy"
+			"Numpy",
+			"astype"
 		]
 	}
 }
