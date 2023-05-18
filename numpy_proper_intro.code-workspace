@@ -6,10 +6,13 @@
 	],
 	"settings": {
 		"cSpell.words": [
+			"arange",
+			"astype",
 			"dtype",
 			"itemsize",
+			"ndim",
 			"Numpy",
-			"astype"
+			"randn"
 		]
 	}
 }
