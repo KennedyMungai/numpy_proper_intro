@@ -14,8 +14,10 @@
 			"genfromtxt",
 			"itemsize",
 			"Matplot",
+			"matplotlib",
 			"ndim",
 			"Numpy",
+			"pyplot",
 			"randn",
 			"tofile"
 		]
