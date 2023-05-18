@@ -11,6 +11,7 @@
 			"asarray",
 			"astype",
 			"dtype",
+			"genfromtxt",
 			"itemsize",
 			"ndim",
 			"Numpy",
